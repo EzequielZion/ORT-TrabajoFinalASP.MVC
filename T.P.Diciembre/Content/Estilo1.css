@@ -1,0 +1,154 @@
+#Todo
+{
+background-color: #191919;
+}
+p
+{
+margin-top: 0.6em; 
+margin-bottom: 0em;
+}
+.Centrar
+{
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding-bottom: 0px;
+}
+#Título1
+{
+  
+font-size: 25px;
+  
+font-family: "OldSansBlack";
+  
+color: rgba(255, 255, 255, 0.961);
+  
+line-height: 1.2;
+  
+text-align: right;
+position: absolute;
+right: 447px;
+top: 17px;
+}
+
+#Título2 
+{
+  
+font-size: 39px;
+  
+font-family: "OldSansBlack";
+  
+color: rgba(255, 255, 255, 0.961);
+  
+line-height: 1.2;
+  
+text-align: right;
+position: absolute;
+right: 413px;
+top: 66px;
+}
+
+.Brillo
+{
+  text-shadow: 0 0 5.5px #fff;
+}
+#FotoAlejo
+{
+position: absolute;
+left: 415px;
+top: 230px;
+}
+#Alejo 
+{
+font-size: 39px;
+
+
+position: absolute;
+right: 410px;
+top: 203px;
+}
+#MejoresPlatos
+{
+font-size: 45px;
+text-align: center;
+position: relative;
+bottom:810px;
+}|
+.FuenteGeneralNA
+{
+font-family: "Eurostile";
+color: d3541b;
+}
+.FuenteGeneralBl
+{
+font-family: "Eurostile";
+color: ffffff;
+}
+.FuenteGeneralNE
+{
+font-family: "Eurostile";
+color: 000000;
+}
+#DescripciónA
+{
+padding-left: 10px;
+padding-right: 25px;
+padding-top: 4px;
+font-size: 14px
+}
+#Rectángulo1
+{
+   
+width: 264px;
+  
+height: 106px;
+
+background-color: 68514a;
+position: absolute;
+right: 408px;
+top: 280.5px;
+}
+
+#Rectángulo2
+{
+
+background-color: 68514a;
+position: absolute;
+  
+right: 405px;
+  
+top: 460px;
+  
+width: 527px;
+  
+height: 206px;
+
+}
+
+.Redimensión
+{
+width: 150px;
+height: 80 px;
+padding-left: 6px;
+padding-right:6px;
+}
+#FotosPlatos1
+{
+float: center;
+padding-left:20px;
+padding-top: 15px;
+}
+.TextoPlatos1
+{
+font-size: 14px;
+float: left;
+padding-left: 35px;
+padding-right: 25px;
+}
+@font-face 
+{
+font-family: "Eurostile";
+src: url("Fuentes/Eurostile.ttf");
+}
+  
+

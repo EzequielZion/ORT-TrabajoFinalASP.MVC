@@ -1,0 +1,27 @@
+﻿@using T.P.Diciembre.Models
+@model Amigo
+
+@{
+    ViewBag.Title = "Agregar amigos";
+}
+<h1>Rellene el formulario con los datos del amigo/a que desee agregar</h1>
+
+@using (Html.BeginForm("GuardarAmigo", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.ValidationMessageFor(x => x.Nombre)<br />
+    @Html.Label("Nombre: ") @Html.TextBoxFor(x => x.Nombre) <br />
+    
+    @Html.ValidationMessageFor(x => x.Descripcion)<br />
+    @Html.Label("Descripción: ") @Html.TextAreaFor(x => x.Descripcion) 
+
+    @Html.ValidationMessageFor(x => x.Pais)<br />
+    @Html.Label("País: ") @Html.TextBoxFor(x => x.Pais)
+
+    <br />
+    <input type="file" name="FotoASubir" id="file" />
+    <input type="submit" value="Agregar este amigo" />
+}
+
+
+
+

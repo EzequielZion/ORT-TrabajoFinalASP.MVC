@@ -1,0 +1,25 @@
+﻿@using T.P.Diciembre.Models
+@model Usuario
+
+@{
+    ViewBag.Title = "Regístrese gratis";
+}
+<h1>Rellene el formulario con sus datos</h1>
+
+<form method="POST" action="@Url.Action("GuardarUsuario", "Home")">
+
+    @Html.ValidationMessageFor(x => x.Nombre)<br />
+    @Html.Label("Nombre: ") @Html.TextBoxFor(x => x.Nombre) <br />
+
+    @Html.ValidationMessageFor(x => x.Mail)<br />
+    @Html.Label("Mail: ") @Html.TextBoxFor(x => x.Mail)
+
+    @Html.ValidationMessageFor(x => x.Contraseña)<br />
+    @Html.Label("Contraseña: ") @Html.PasswordFor(x => x.Contraseña)
+    <br />
+    <input type="submit" value="Registrar" />
+</form>
+
+
+
+

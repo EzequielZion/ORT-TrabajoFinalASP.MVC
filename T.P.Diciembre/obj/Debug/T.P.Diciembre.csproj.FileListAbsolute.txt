@@ -1,0 +1,371 @@
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\T.P.Diciembre.dll.config
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\T.P.Diciembre.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\T.P.Diciembre.pdb
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Antlr3.Runtime.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\EntityFramework.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\EntityFramework.SqlServer.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Newtonsoft.Json.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Owin.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Helpers.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Mvc.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Optimization.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Razor.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.Razor.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\WebGrease.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Helpers.xml
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Mvc.xml
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Optimization.xml
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Razor.xml
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.xml
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.Razor.xml
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Newtonsoft.Json.xml
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Antlr3.Runtime.pdb
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\EntityFramework.xml
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\EntityFramework.SqlServer.xml
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.xml
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.xml
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.Razor.resources.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\es\EntityFramework.resources.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.resources.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\obj\Debug\T.P.Diciembre.csprojResolveAssemblyReference.cache
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\obj\Debug\T.P.Diciembre.dll
+C:\Users\ezequ\Desktop\T.P.Diciembre\T.P.Diciembre\obj\Debug\T.P.Diciembre.pdb
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\T.P.Diciembre.dll.config
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\T.P.Diciembre.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\T.P.Diciembre.pdb
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Antlr3.Runtime.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\EntityFramework.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\EntityFramework.SqlServer.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.Core.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Cookies.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Facebook.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Google.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.OAuth.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Twitter.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Web.Infrastructure.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Newtonsoft.Json.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Owin.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Helpers.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Mvc.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Optimization.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Razor.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.Deployment.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.Razor.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\WebGrease.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Helpers.xml
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Mvc.xml
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Optimization.xml
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Razor.xml
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.xml
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.Deployment.xml
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.Razor.xml
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Newtonsoft.Json.xml
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Antlr3.Runtime.pdb
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\EntityFramework.xml
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\EntityFramework.SqlServer.xml
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.Core.xml
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.xml
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.xml
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Facebook.xml
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Cookies.xml
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.OAuth.xml
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Google.xml
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Twitter.xml
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.Helpers.resources.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.Mvc.resources.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.Optimization.resources.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.Razor.resources.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.WebPages.resources.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\EntityFramework.resources.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\EntityFramework.SqlServer.resources.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.resources.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Security.resources.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Security.Google.resources.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\obj\Debug\T.P.Diciembre.csprojResolveAssemblyReference.cache
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\obj\Debug\T.P.Diciembre.dll
+E:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\obj\Debug\T.P.Diciembre.pdb
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\obj\Debug\T.P.Diciembre.csprojResolveAssemblyReference.cache
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\obj\Debug\T.P.Diciembre.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\T.P.Diciembre.dll.config
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\T.P.Diciembre.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\T.P.Diciembre.pdb
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Antlr3.Runtime.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\EntityFramework.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\EntityFramework.SqlServer.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.Core.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Cookies.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Facebook.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Google.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.OAuth.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Twitter.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Web.Infrastructure.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Newtonsoft.Json.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Owin.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Helpers.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Mvc.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Optimization.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Razor.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.Deployment.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.Razor.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\WebGrease.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Helpers.xml
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Mvc.xml
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Optimization.xml
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Razor.xml
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.xml
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.Deployment.xml
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.Razor.xml
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Newtonsoft.Json.xml
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Antlr3.Runtime.pdb
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\EntityFramework.xml
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\EntityFramework.SqlServer.xml
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.Core.xml
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.xml
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.xml
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Facebook.xml
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Cookies.xml
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.OAuth.xml
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Google.xml
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Twitter.xml
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.Helpers.resources.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.Mvc.resources.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.Optimization.resources.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.Razor.resources.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.WebPages.resources.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\EntityFramework.resources.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\EntityFramework.SqlServer.resources.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.resources.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Security.resources.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Security.Google.resources.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\obj\Debug\T.P.Diciembre.csprojResolveAssemblyReference.cache
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\obj\Debug\T.P.Diciembre.dll
+F:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\obj\Debug\T.P.Diciembre.pdb
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\T.P.Diciembre.dll.config
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\T.P.Diciembre.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\T.P.Diciembre.pdb
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Antlr3.Runtime.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\EntityFramework.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Google.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Newtonsoft.Json.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Owin.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Helpers.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Mvc.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Optimization.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Razor.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.Deployment.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.Razor.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\WebGrease.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Helpers.xml
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Mvc.xml
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Optimization.xml
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.Razor.xml
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.xml
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.Deployment.xml
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\System.Web.WebPages.Razor.xml
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Newtonsoft.Json.xml
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Antlr3.Runtime.pdb
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\EntityFramework.xml
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.xml
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.xml
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Google.xml
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.Helpers.resources.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.Mvc.resources.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.Optimization.resources.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.Razor.resources.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.WebPages.resources.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\EntityFramework.resources.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\EntityFramework.SqlServer.resources.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.resources.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Security.resources.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\PROGRAMACIÓN\T.P.Diciembre\T.P.Diciembre\obj\Debug\T.P.Diciembre.pdb
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\T.P.Diciembre.dll.config
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\T.P.Diciembre.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\T.P.Diciembre.pdb
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Antlr3.Runtime.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\EntityFramework.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.Owin.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.Owin.Security.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Newtonsoft.Json.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Owin.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\System.Web.Helpers.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\System.Web.Mvc.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\System.Web.Optimization.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\System.Web.Razor.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\System.Web.WebPages.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\WebGrease.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\System.Web.Helpers.xml
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\System.Web.Mvc.xml
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\System.Web.Optimization.xml
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\System.Web.Razor.xml
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\System.Web.WebPages.xml
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Newtonsoft.Json.xml
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\EntityFramework.xml
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.Owin.xml
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.Owin.Security.xml
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\es\System.Web.Helpers.resources.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\es\System.Web.Mvc.resources.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\es\System.Web.Razor.resources.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\es\System.Web.WebPages.resources.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\es\EntityFramework.resources.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\es\Microsoft.Owin.resources.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\obj\Debug\T.P.Diciembre.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\obj\Debug\T.P.Diciembre.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\obj\Debug\T.P.Diciembre.dll
+C:\Users\USER\Documents\ORT\0PUSHEO 5to\T.P.Diciembre[APROBADO]\T.P.Diciembre\obj\Debug\T.P.Diciembre.pdb

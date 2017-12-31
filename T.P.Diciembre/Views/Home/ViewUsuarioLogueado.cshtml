@@ -1,0 +1,27 @@
+﻿@using T.P.Diciembre.Models
+@model Amigo
+
+
+@{
+    ViewBag.Title = "Bienvenido";
+}
+
+<h2>Bienvenido, @ViewBag.Nombre</h2>
+
+@{
+    foreach (Amigo UnAmigo in ViewBag.ListaAmigos)
+    {
+        <li>
+            <img src="/Content/Imagenes/@UnAmigo.Foto" alt="Amigo" width="200" height="200" /> &nbsp
+            <u>Nombre:</u>  @UnAmigo.Nombre &nbsp 
+            <u>Descripción:</u>  @UnAmigo.Descripcion
+            <u>País:</u> @UnAmigo.Pais
+        </li>
+        @Html.ActionLink("Eliminar amigo :(", "DeleteFriend", "Home", new {IdAmigoAEliminar = UnAmigo.IdAmigo, IdUsuario = UnAmigo.IdUsuario }, null); <br/>
+    }
+}
+<br /> <br />
+@Html.ActionLink("¡Agregar más amigos!", "CargarAmigo", "Home") <br/>
+@Html.ActionLink("Logout", "Index", "Home")
+
+

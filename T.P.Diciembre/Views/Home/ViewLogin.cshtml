@@ -1,0 +1,23 @@
+﻿@using T.P.Diciembre.Models
+@model Usuario
+
+@{
+    ViewBag.Title = "Aprobame Leooo";
+}
+<h1>
+    Logueese con su mail y contraseña:
+</h1>
+
+<form method="post" action="@Url.Action("ALoguear", "Home")">
+
+    @Html.ValidationMessageFor(x => x.Mail)<br />
+    Mail: @Html.TextBoxFor(x => x.Mail) <br />
+
+    @Html.ValidationMessageFor(x => x.Contraseña)<br />
+    Contraseña: @Html.PasswordFor(x => x.Contraseña) <br />
+    <input type="submit" value="Ingresar" />
+</form>
+
+
+
+
